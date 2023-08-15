@@ -1,0 +1,1 @@
+This is python based project to typing speed testing application using python
